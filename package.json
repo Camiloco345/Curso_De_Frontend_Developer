@@ -1,0 +1,26 @@
+{
+  "name": "cursofrontenddeveloper",
+  "version": "1.0.0",
+  "description": "This is the project of the fronted developer course of PLATZI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camiloco345/Curso_De_Frontend_Developer.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "desing",
+    "figma",
+    "frontend"
+  ],
+  "author": "Camilo_Ovalle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Camiloco345/Curso_De_Frontend_Developer/issues"
+  },
+  "homepage": "https://github.com/Camiloco345/Curso_De_Frontend_Developer#readme"
+}
